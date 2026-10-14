@@ -1,0 +1,6 @@
+{
+  "name": "Zuko - Student Financial Intelligence",
+  "description": "AI-powered financial management and awareness assistant tailored for university students. Track budgets, savings goals, expenses, and financial health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
